@@ -1,0 +1,13 @@
+﻿{
+  "name": "Bloodstained: Ritual of the Night Randomizer",
+  "game_name": "Bloodstained: Ritual of the Night",
+  "platform": "PC",
+  "package_version": "1.0.0",
+  "package_uid": "brotn_rando_johnny",
+  "author": "JohnnyGo",
+  "variants": {
+    "standard": {
+      "display_name": "Item Tracker"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Silver Bromide",
+    "type": "toggle",
+    "img": "images/bromide.png",
+    "codes": "bromide"
+  },
+  {
+    "name": "Craftwork",
+    "type": "toggle",
+    "img": "images/craftwork.png",
+    "codes": "craftwork"
+  },
+  {
+    "name": "Dimension Shift",
+    "type": "toggle",
+    "img": "images/dimension_shift.png",
+    "codes": "dshift"
+  },
+  {
+    "name": "Double Jump",
+    "type": "toggle",
+    "img": "images/double_jump.png",
+    "codes": "djump"
+  },
+  {
+    "name": "Invert",
+    "type": "toggle",
+    "img": "images/invert.png",
+    "codes": "invert"
+  },
+  {
+    "name": "Bovine Plume",
+    "type": "toggle",
+    "img": "images/plume.png",
+    "codes": "plume"
+  },
+  {
+    "name": "Reflector Ray",
+    "type": "toggle",
+    "img": "images/reflector_ray.png",
+    "codes": "rray"
+  },
+  {
+    "name": "Underwater",
+    "type": "toggle",
+    "img": "images/underwater.png",
+    "codes": "underwater"
+  },
+  {
+    "name": "Zangetsuto",
+    "type": "toggle",
+    "img": "images/zangetsuto.png",
+    "codes": "zangetsuto"
+  }
+]
